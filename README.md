@@ -1,3 +1,3 @@
 # demo.
 
-Some Description are here!
+Some Description are here! i learn git from scratch
